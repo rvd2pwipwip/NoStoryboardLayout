@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  RootViewController.swift
 //  NoStoryboardLayout
 //
 //  Created by Herve Desrosiers on 2020-02-25.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class RootViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -17,4 +17,3 @@ class ViewController: UIViewController {
 
 
 }
-
